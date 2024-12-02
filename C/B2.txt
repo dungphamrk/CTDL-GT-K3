@@ -1,0 +1,39 @@
+1. Mảng (Array)
+    Đặc điểm chính: Lưu trữ các phần tử dữ liệu trong một khối bộ nhớ liên tục. Dễ dàng truy cập phần tử dựa trên chỉ mục.
+    Ứng dụng phổ biến:
+        Tìm kiếm và sắp xếp dữ liệu .
+        Lưu trữ quản lý dữ liệu tạm thời trong các ứng dụng.
+
+2. Danh sách liên kết (LinkedList)
+    Đặc điểm chính: Một chuỗi các phần tử được liên kết với nhau thông qua các con trỏ. Mỗi phần tử chứa dữ liệu và con trỏ đến phần tử tiếp theo.
+    Ứng dụng phổ biến:
+        Triển khai ngăn xếp (stack) và hàng đợi (queue).
+        Quản lý bộ nhớ động (do không yêu cầu khối bộ nhớ liên tục).
+        Tạo cấu trúc dữ liệu phức tạp như đồ thị (graph).
+
+3. Ngăn xếp (Stack)
+    Đặc điểm chính: Là cấu trúc dữ liệu tuân theo nguyên tắc LIFO (Last In, First Out – Vào sau, ra trước). Phần tử cuối cùng được thêm vào sẽ được lấy ra đầu tiên.
+    Ứng dụng phổ biến:
+        Quản lý hàm gọi đệ quy.
+        Hoàn tác (undo) trong trình soạn thảo văn bản.
+        Chuyển đổi biểu thức (infix, postfix).
+
+4. Hàng đợi (Queue)
+    Đặc điểm chính: Là cấu trúc dữ liệu tuân theo nguyên tắc FIFO (First In, First Out – Vào trước, ra trước). Phần tử đầu tiên được thêm vào sẽ được lấy ra đầu tiên.
+    Ứng dụng phổ biến:
+        Quản lý tác vụ trong hệ điều hành (hàng đợi CPU, hàng đợi in).
+        Truyền dữ liệu trong mạng (hàng đợi gói tin).
+        Các thuật toán duyệt đồ thị (BFS).
+        
+5. Cây (Tree)
+    Đặc điểm chính: Là cấu trúc dữ liệu phân cấp, bao gồm một nút gốc (root) và các nút con được tổ chức thành các nhánh.
+    Ứng dụng phổ biến:
+        Hệ thống tệp tin (file system).
+        Cơ sở dữ liệu (B-Tree, AVL Tree).
+        Các thuật toán tìm kiếm nhanh (như Binary Search Tree).
+6. Đồ thị (Graph)
+    Đặc điểm chính: Bao gồm các nút (vertices) và các cạnh (edges) để biểu diễn mối quan hệ giữa các phần tử.
+    Ứng dụng phổ biến:
+        Mạng xã hội (mối quan hệ bạn bè, người theo dõi).
+        Hệ thống giao thông (đường đi ngắn nhất).
+        Xử lý hình ảnh và đồ họa máy tính.

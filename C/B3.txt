@@ -1,0 +1,14 @@
+1.Lưu trữ danh sách sinh viên theo thứ tự nhập vào
+    Mảng (Array)
+
+2.Tìm kiếm nhanh tên một sản phẩm trong danh sách hàng triệu sản phẩm
+    Bảng băm (hash map)
+
+3.Quản lý danh sách các task công việc cần xử lý theo thứ tự ưu tiên
+    Hàng đợi (Queue)
+
+4.Lưu trữ dữ liệu hệ thống phân cấp như thư mục máy tính
+    Cây (tree)
+
+5.Tìm đường đi ngắn nhất giữa 2 điểm trên bản đồ    
+    Đồ thị (graph)

@@ -1,0 +1,4 @@
+Oval :  Bắt đầu hoặc kết thúc 1 chu trình
+Hình chữ nhật:  Thể hiện 1 bước 
+Hình thoi : Câu lệnh điều kiện
+Mũi tên : Chỉ hướng đi hoặc luồng thông tin.
