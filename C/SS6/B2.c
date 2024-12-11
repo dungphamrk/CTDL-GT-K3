@@ -7,7 +7,7 @@ typedef struct {
     int data[MAX];
     int top; 
 } Stack;
-
+ 
 bool isEmpty(Stack *s) {
     return s->top == -1;
 }
