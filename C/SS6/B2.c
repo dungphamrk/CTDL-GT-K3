@@ -58,7 +58,7 @@ void printStack(Stack *s) {
 int main() {
     Stack s;
     (&s)->top=-1;
-
+    
     int n;
     printf("Nhap so luong phan tu: ");
     scanf("%d",&n);
