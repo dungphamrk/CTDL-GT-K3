@@ -116,7 +116,7 @@ int main() {
             case 3:
                 printf("Nhap dinh bat dau DFS: ");
                 scanf("%d", &startVertex);
-                for (int i = 0; i < vertices; i++) visited[i] = 0; // Reset mảng visited
+                for (int i = 0; i < vertices; i++) visited[i] = 0;
                 printf("Duyet DFS bat dau tu dinh %d: ", startVertex);
                 DFS(&graph, startVertex, visited);
                 printf("\n");

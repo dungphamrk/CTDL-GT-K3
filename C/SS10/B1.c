@@ -17,7 +17,7 @@ Node* insertHead(Node* head, int value) {
     return moi;
 }
 
-Node* themVaoCuoi(Node* head, int value) {
+Node* insertTail(Node* head, int value) {
     Node* moi = (Node*)malloc(sizeof(Node));
     moi->data = value;
     moi->next = NULL;
@@ -113,7 +113,7 @@ int main() {
             case 2:
                 printf("Nhap gia tri can them vao cuoi: ");
                 scanf("%d", &value);
-                danhSach = themVaoCuoi(danhSach, value);
+                danhSach = insertTail(danhSach, value);
                 break;
             case 3:
                 danhSach = delHead(danhSach);
