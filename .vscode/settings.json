@@ -59,6 +59,7 @@
   "files.associations": {
     "stdlib.h": "c",
     "stdbool.h": "c",
-    "stdio.h": "c"
+    "stdio.h": "c",
+    "test": "cpp"
   }
 }
