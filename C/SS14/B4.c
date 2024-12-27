@@ -15,11 +15,6 @@ void selectionSort(int arr[], int n)
         int temp = arr[i];
         arr[i] = arr[minId];
         arr[minId] = temp;
-        for (int j = 0; j < n; j++)
-        {
-            printf("%d", arr[j]);
-        }
-        printf("\n");
     }
 }
 int main()
